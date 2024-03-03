@@ -1,4 +1,6 @@
 # SVMagic: Support Vector Machines Repository
+![image](https://github.com/Dishantkharkar/SVMagic/assets/130529528/f7381890-5d10-496c-9398-e5271b9f6e50)
+
 
 Welcome to SVMagic, your repository for exploring, understanding, and implementing Support Vector Machine (SVM) algorithms! Here, you'll find a collection of personal projects, mathematical insights, and code implementations related to SVMs.
 
